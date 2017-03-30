@@ -34,7 +34,7 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 
 header .header-content {
@@ -42,7 +42,7 @@ header .header-content {
     width: 100%;
     padding: 100px 15px 70px;
     text-align: center;
-	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 
 header .header-content .header-content-inner h1 {
@@ -50,7 +50,7 @@ header .header-content .header-content-inner h1 {
     margin-bottom: 20px;
     font-size: 50px;
     font-weight: 300;
-	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 
 header .header-content .header-content-inner p {
@@ -58,13 +58,13 @@ header .header-content .header-content-inner p {
     font-size: 50px;
     font-weight: 300;
     color: #ffff00;	
-	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 
 @media(min-width:768px) {
     header {
         min-height: 100%;
-		text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+		text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
     }
 
     header .header-content {
@@ -80,12 +80,12 @@ header .header-content .header-content-inner p {
         margin-right: auto;
         margin-left: auto;
         max-width: 1000px;
-		text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+		text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
     }
 
 	header .header-content .header-content-inner h1 {
     	font-size: 100px;		
-		text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+		text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 		}
 
     header .header-content .header-content-inner p {
@@ -93,7 +93,7 @@ header .header-content .header-content-inner p {
         margin-left: auto;
         max-width: 80%;
         font-size: 30px;		
-		text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+		text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
     }
 }
 
