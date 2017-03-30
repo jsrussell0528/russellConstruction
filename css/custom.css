@@ -28,8 +28,8 @@ header {
     min-height: auto;
     text-align: center;
     color: #ffff00;
-    background: url('../images/IMG_1737.jpg');
     background-position: center;
+	background: url('../images/writing.jpg');
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
